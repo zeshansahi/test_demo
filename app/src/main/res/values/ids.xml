@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_movie_list" type="id" />
+    <item name="action_FragMovieDetail" type="id"/>
+    <item name="action_FragPlayer" type="id"/>
+</resources>
