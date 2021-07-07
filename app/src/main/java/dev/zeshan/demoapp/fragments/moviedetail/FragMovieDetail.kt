@@ -26,7 +26,8 @@ class FragMovieDetail : Fragment() {
             _binding?.pbMovieList?.visibility = View.GONE
             _binding?.clMain?.visibility = View.VISIBLE
             _binding?.items = obj
-        }
+
+        }//test
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
